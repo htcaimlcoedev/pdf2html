@@ -15,9 +15,9 @@
   },
   "license": "GPL-3.0",
   "dependencies": {
-    "express": "~4.10.4",
-    "body-parser": "~1.10.0",
-    "multer": "~0.1.6",
+    "express": "~4.17.3",
+    "body-parser": "~1.19.2",
+    "multer": "~1.0.0",
     "fs-extra": "~0.12.0"
   }
 }
